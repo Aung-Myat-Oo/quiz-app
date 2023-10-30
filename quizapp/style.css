@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+body {
+  background-color: #9fa4c4;
+  background-image: linear-gradient(315deg, #9fa4c4 0%, #9e768f 74%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+* {
+    margin: 0;
+    padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.question-container {
+  background-color: #fff;
+  width: fit-content;
+  border-radius: 5px;
+  box-shadow: 8px 8px 24px 1px rgba(0, 0, 0, 0.51);
+  -webkit-box-shadow: 8px 8px 24px 1px rgba(0, 0, 0, 0.51);
+  -moz-box-shadow: 8px 8px 24px 1px rgba(0, 0, 0, 0.51);
+  width: 600px;
+  max-width: 100%;
+}
+h2{
+    color: orangered;
+}
+.quiz-header{
+    padding: 4rem;
+}
+.question-container ul {
+  list-style: none;
+}
+.question-container ul li{
+    display: flex;
+    align-items: center;
+    margin: 1rem 0;
+    font-size: 18px;
+}
+.question-container ul li input{
+    margin-right: 10px;
+    accent-color:orangered;
+}
+.question-container ul li label{
+    font-family: 'Handlee', cursive;
+    font-weight: bold;
+    cursor: pointer;
+}
+.question-container button{
+    border: none;
+    background-color: orangered;
+    width: 100%;
+    padding: 1.3rem;
+    border-radius: 0px 0px 5px 5px;
+    color: white;
+}
+.question-container button:hover{
+    opacity: 0.9;
+}
