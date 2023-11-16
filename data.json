@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "questions": "When is world health day?",
+      "a": "Apr 7",
+      "b": "December 5",
+      "c": "March 10",
+      "d": "Jun 15",
+      "correct": "a"
+    },
+    {
+      "questions": "who was the president of america in 1992?",
+      "a": "Joe Biden",
+      "b": "George H. W. Bush",
+      "c": "Donald Trump",
+      "d": "Neilia Hunter Biden",
+      "correct": "b"
+    },
+    {
+      "questions": "When will married Aung Myat Oo and Htoo Wint ThaDar Win",
+      "a": "June 7 2025",
+      "b": "December 5 2030",
+      "c": "April 15 2033",
+      "d": "July 15 2300",
+      "correct": "c"
+    },
+    {
+      "questions": "Who is green flag?",
+      "a": "Aung Myat Oo",
+      "b": "Htoo Wint ThaDar Win",
+      "c": "Nobody",
+      "d": "Both two people",
+      "correct": "c"
+    }
+  ]
+}
